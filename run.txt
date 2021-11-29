@@ -1,0 +1,2 @@
+./Examples/Monocular/mono_kitti Vocabulary/ORBvoc.txt Examples/Monocular/KITTI03.yaml /home/yrsn/Dev/sequences/03
+
