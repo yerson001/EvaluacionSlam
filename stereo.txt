@@ -1,0 +1,2 @@
+./Examples/Stereo/stereo_kitti Vocabulary/ORBvoc.txt Examples/Stereo/KITTI03.yaml /home/yrsn/Dev/sequences/03
+
